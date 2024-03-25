@@ -1,5 +1,5 @@
 # ML_PriceHouse-Predictions
-Machine learning for price house predictions 
+Machine learning for price house predictions using Linear regression  
 
 ## Okee good , but how ? 
 Dividing the dataset into a training set and a testing set is the critical step. The training set is used to teach the ML algorithm the relationship between the features and the target variable (house prices). The algorithm adjusts its internal parameters to minimize the prediction error on the training data. 
