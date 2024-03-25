@@ -11,6 +11,11 @@ In the Dataset we have 10 columns and 42 rows (just for prototping ... ):
 
 ![image](https://github.com/ChaiouraMohammed/ML_PriceHouse-Predictions/assets/91562298/89cda570-aa6a-405f-86db-3ba43dcde48a)
 
+## Our Process
+
+![image](https://github.com/ChaiouraMohammed/ML_PriceHouse-Predictions/assets/91562298/f76498bd-563d-4d93-bd5e-3087511fe068)
+
+
 ## linear regression 
 
 ### (Price / lot_size)
